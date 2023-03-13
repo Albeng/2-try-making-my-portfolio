@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**i am a full stack web developer 
+i am a full stack web developer 
 
 Here are some ideas to get you started:
 
